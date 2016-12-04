@@ -1,0 +1,4 @@
+baseurl = "https://mantrayatra.com/"
+title = "Mantra yatra"
+languageCode = "en-us"
+theme = "hugo-mantra-yatra"
