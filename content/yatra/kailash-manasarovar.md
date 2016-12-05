@@ -2,6 +2,7 @@
 title = "kailash manasarovar"
 date = "2016-11-18T19:23:41+05:30"
 image = "/img/kailash-manasarovar/banner.jpg"
+thumbnail = "/img/kailash-manasarovar/banner_tn.jpg"
 summary = "15 Day pilgrimage of a lifetime"
 price = ""
 priceunit = ""

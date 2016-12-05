@@ -7,6 +7,7 @@ tags = [""]
 daterange = ""
 title = "ahobilam"
 image = "/img/ahobilam/banner.jpg"
+thumbnail = "/img/ahobilam/banner_tn.jpg"
 price = ""
 priceunit = "Rs"
 

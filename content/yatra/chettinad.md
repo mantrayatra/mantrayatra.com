@@ -1,5 +1,6 @@
 +++
 image = "/img/chettinad/banner.jpg"
+thumbnail = "/img/chettinad/banner_tn.jpg"
 summary = ""
 title = "chettinad"
 categories = ["heritage"]

@@ -2,6 +2,7 @@
 date = "2016-11-22T09:37:14+05:30"
 title = "kasi"
 image = "/img/kasi/banner.jpg"
+thumbnail = "/img/kasi/banner_tn.jpg"
 summary = "6 days / 6 nights trip to Allahabad, Ayodhya, Kasi, Gaya"
 price = "13,500"
 priceunit = "Rs"
