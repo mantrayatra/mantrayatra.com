@@ -4,4 +4,4 @@ languageCode = "en-us"
 theme = "hugo-mantra-yatra"
 
 [params]
-  bannerImgUrl = "/img/banner.jpg"
+  bannerImgUrl = "//res.cloudinary.com/mantrayatra/image/upload/v1481461144/kailash-manasarovar/banner.jpg"

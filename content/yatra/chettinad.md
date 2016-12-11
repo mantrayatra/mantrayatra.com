@@ -1,6 +1,6 @@
 +++
-image = "/img/chettinad/banner.jpg"
-thumbnail = "/img/chettinad/banner_tn.jpg"
+image = "//res.cloudinary.com/mantrayatra/image/upload/c_fit,w_1440/v1481459215/chettinad/banner.jpg"
+thumbnail = "http://res.cloudinary.com/mantrayatra/image/upload/c_fill,h_300,w_450/v1481459215/chettinad/banner.jpg"
 summary = ""
 title = "chettinad"
 categories = ["heritage"]

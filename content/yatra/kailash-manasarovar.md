@@ -1,8 +1,8 @@
 +++
 title = "kailash manasarovar"
 date = "2016-11-18T19:23:41+05:30"
-image = "/img/kailash-manasarovar/banner.jpg"
-thumbnail = "/img/kailash-manasarovar/banner_tn.jpg"
+image = "//res.cloudinary.com/mantrayatra/image/upload/v1481461144/kailash-manasarovar/banner.jpg"
+thumbnail = "//res.cloudinary.com/mantrayatra/image/upload/c_fill,w_450,h_300,g_north/v1481461144/kailash-manasarovar/banner.jpg"
 summary = "15 Day pilgrimage of a lifetime"
 price = ""
 priceunit = ""

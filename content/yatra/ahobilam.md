@@ -6,8 +6,8 @@ categories = [ "pilgrimage" ]
 tags = [""]
 daterange = ""
 title = "ahobilam"
-image = "/img/ahobilam/banner.jpg"
-thumbnail = "/img/ahobilam/banner_tn.jpg"
+image = "//res.cloudinary.com/mantrayatra/image/upload/c_fill,w_1440/v1481458952/ahobilam/banner.jpg"
+thumbnail = "//res.cloudinary.com/mantrayatra/image/upload/c_fill,h_300,w_450/v1481458952/ahobilam/banner.jpg"
 price = ""
 priceunit = "Rs"
 
