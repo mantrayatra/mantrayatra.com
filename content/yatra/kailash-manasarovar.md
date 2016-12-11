@@ -16,5 +16,5 @@ tags = ["upcoming"]
 Jun 9 - 24, 2017
 
 ### Glimpse of the past
-{{< article-image src="/img/kailash-manasarovar/experiences/IMG_2978.JPG" alt="" >}}
-{{< article-image src="/img/kailash-manasarovar/experiences/IMG-20160627-WA0033.jpg" alt="" >}}
+{{< article-image src="//res.cloudinary.com/mantrayatra/image/upload/c_scale,w_800/v1481339043/kailash-manasarovar/IMG_2978_ugk8cz.jpg" alt="" >}}
+{{< article-image src="//res.cloudinary.com/mantrayatra/image/upload/c_scale,w_800/v1481339179/kailash-manasarovar/IMG-20160627-WA0033_oky7rm.jpg" alt="" >}}

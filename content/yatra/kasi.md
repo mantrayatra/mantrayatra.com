@@ -74,8 +74,8 @@ Reach Chennai Central AT 20.30 Pm
 * By 3rd AC - Rs. 4200 ( For Senior Citizens - 2600 )
 
 ### Glimpse of the past
-{{< article-image src="/img/kasi/experiences/IMG_20160828_180642452.jpg" alt="" >}}
-{{< article-image src="/img/kasi/experiences/IMG_20160828_182057702.jpg" alt="" >}}
-{{< article-image src="/img/kasi/experiences/IMG_20160828_180645689.jpg" alt="" >}}
-{{< article-image src="/img/kasi/experiences/IMG_20160828_182644948.jpg" alt="" >}}
-{{< article-image src="/img/kasi/experiences/IMG_20160828_182042302.jpg" alt="" >}}
+{{< article-image src="//res.cloudinary.com/mantrayatra/image/upload/c_scale,w_800/v1481427119/kasi/IMG_20160828_180642452_tnnmhm.jpg" alt="" >}}
+{{< article-image src="//res.cloudinary.com/mantrayatra/image/upload/c_scale,w_800/v1481432016/kasi/IMG_20160828_180645689_n2skvk.jpg" alt="" >}}
+{{< article-image src="//res.cloudinary.com/mantrayatra/image/upload/c_scale,w_800/v1481432231/kasi/IMG_20160828_182042302_xbfqa4.jpg" alt="" >}}
+{{< article-image src="//res.cloudinary.com/mantrayatra/image/upload/c_scale,w_800/v1481432230/kasi/IMG_20160828_182057702_urg2ty.jpg" alt="" >}}
+{{< article-image src="//res.cloudinary.com/mantrayatra/image/upload/c_scale,w_800/v1481432227/kasi/IMG_20160828_182644948_hxrmoc.jpg" alt="" >}}
