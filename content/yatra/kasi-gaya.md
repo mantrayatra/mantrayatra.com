@@ -1,8 +1,8 @@
 +++
 date = "2016-11-22T09:37:14+05:30"
 title = "kasi gaya"
-image = "//res.cloudinary.com/mantrayatra/image/upload/v1481461493/kasi-gaya/banner.jpg"
-thumbnail = "//res.cloudinary.com/mantrayatra/image/upload/c_fill,w_450,h_300/v1481461493/kasi-gaya/banner.jpg"
+image = "//res.cloudinary.com/mantrayatra/image/upload/fl_progressive/v1481461493/kasi-gaya/banner.jpg"
+thumbnail = "//res.cloudinary.com/mantrayatra/image/upload/c_fill,w_450,h_300,fl_progressive/v1481461493/kasi-gaya/banner.jpg"
 summary = "6 days / 6 nights trip to Allahabad, Ayodhya, Kasi, Gaya"
 price = "13,500"
 priceunit = "Rs"
@@ -74,8 +74,8 @@ Reach Chennai Central AT 20.30 Pm
 * By 3rd AC - Rs. 4200 ( For Senior Citizens - 2600 )
 
 ### Glimpse of the past
-{{< article-image src="//res.cloudinary.com/mantrayatra/image/upload/c_scale,w_800/v1482942796/kasi-gaya/IMG_20160830_133045340_HDR.jpg" alt="" >}}
-{{< article-image src="//res.cloudinary.com/mantrayatra/image/upload/c_scale,w_800/v1482942806/kasi-gaya/IMG_20160726_071931706.jpg" alt="" >}}
-{{< article-image src="//res.cloudinary.com/mantrayatra/image/upload/c_scale,w_800/v1482942732/kasi-gaya/IMG_20160828_180642452_tnnmhm.jpg" alt="" >}}
-{{< article-image src="//res.cloudinary.com/mantrayatra/image/upload/c_scale,w_800/v1482942783/kasi-gaya/IMG_20160831_110316639_HDR.jpg" alt="" >}}
-{{< article-image src="//res.cloudinary.com/mantrayatra/image/upload/c_scale,w_800/v1482942843/kasi-gaya/IMG_20160901_075227304.jpg" alt="" >}}
+{{< article-image src="//res.cloudinary.com/mantrayatra/image/upload/c_scale,w_800,fl_progressive/v1482942796/kasi-gaya/IMG_20160830_133045340_HDR.jpg" alt="" >}}
+{{< article-image src="//res.cloudinary.com/mantrayatra/image/upload/c_scale,w_800,fl_progressive/v1482942806/kasi-gaya/IMG_20160726_071931706.jpg" alt="" >}}
+{{< article-image src="//res.cloudinary.com/mantrayatra/image/upload/c_scale,w_800,fl_progressive/v1482942732/kasi-gaya/IMG_20160828_180642452_tnnmhm.jpg" alt="" >}}
+{{< article-image src="//res.cloudinary.com/mantrayatra/image/upload/c_scale,w_800,fl_progressive/v1482942783/kasi-gaya/IMG_20160831_110316639_HDR.jpg" alt="" >}}
+{{< article-image src="//res.cloudinary.com/mantrayatra/image/upload/c_scale,w_800,fl_progressive/v1482942843/kasi-gaya/IMG_20160901_075227304.jpg" alt="" >}}

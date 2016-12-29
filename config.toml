@@ -4,7 +4,7 @@ languageCode = "en-us"
 theme = "hugo-mantra-yatra"
 
 [params]
-  bannerImgUrl = "//res.cloudinary.com/mantrayatra/image/upload/v1481461144/kailash-manasarovar/banner.jpg"
+  bannerImgUrl = "//res.cloudinary.com/mantrayatra/image/upload/fl_progressive/v1481461144/kailash-manasarovar/banner.jpg"
   favIcon48by48Url = "//res.cloudinary.com/mantrayatra/image/upload/c_scale,h_48,w_48/v1481781043/mantra_yatra_logo_pfy1r6.png"
   appleTouchIcon180by180Url = "//res.cloudinary.com/mantrayatra/image/upload/c_scale,h_180,w_180/v1481781043/mantra_yatra_logo_pfy1r6.png"
   description = "Go on Pilgrimage, Heritage yatras"
