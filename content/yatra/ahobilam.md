@@ -9,7 +9,8 @@ title = "ahobilam"
 image = "//res.cloudinary.com/mantrayatra/image/upload/c_fill,w_1440,fl_progressive/v1481458952/ahobilam/banner.jpg"
 thumbnail = "//res.cloudinary.com/mantrayatra/image/upload/c_fill,h_300,w_450,fl_progressive/v1481458952/ahobilam/banner.jpg"
 price = ""
-priceunit = "Rs"
+priceunit = ""
+weight = -3
 
 +++
 

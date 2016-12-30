@@ -9,6 +9,7 @@ summary = ""
 daterange = ""
 categories = ["pilgrimage"]
 tags = [""]
+weight = -4
 
 +++
 

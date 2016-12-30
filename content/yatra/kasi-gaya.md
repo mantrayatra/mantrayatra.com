@@ -4,12 +4,13 @@ title = "kasi gaya"
 image = "//res.cloudinary.com/mantrayatra/image/upload/fl_progressive/v1481461493/kasi-gaya/banner.jpg"
 thumbnail = "//res.cloudinary.com/mantrayatra/image/upload/c_fill,w_450,h_300,fl_progressive/v1481461493/kasi-gaya/banner.jpg"
 summary = "6 days / 6 nights trip to Allahabad, Ayodhya, Kasi, Gaya"
-price = "13,500"
-priceunit = "Rs"
+price = ""
+priceunit = ""
 daterange = "Feb 20 - 25, 2017"
 categories = ["pilgrimage"]
 tags = ["upcoming"]
 weight = -1
+
 +++
 
 #### Dates
