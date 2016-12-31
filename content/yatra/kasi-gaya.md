@@ -9,7 +9,7 @@ priceunit = ""
 daterange = "Feb 20 - 25, 2017"
 categories = ["pilgrimage"]
 tags = ["upcoming"]
-weight = -1
+weight = -2
 
 +++
 

@@ -10,7 +10,6 @@ price = ""
 priceunit = ""
 daterange = ""
 upcoming = true
-weight = -2
 
 +++
 

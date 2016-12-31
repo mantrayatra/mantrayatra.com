@@ -21,3 +21,4 @@ theme = "hugo-mantra-yatra"
    # - click the confirm link in the email from www.formspree.io
    # - you're done. Happy mailing!
   email = "mantrayatra@gmail.com"
+  noOfYatrasToInMainBanner = 3

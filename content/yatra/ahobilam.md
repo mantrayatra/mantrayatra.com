@@ -10,7 +10,6 @@ image = "//res.cloudinary.com/mantrayatra/image/upload/c_fill,w_1440,fl_progress
 thumbnail = "//res.cloudinary.com/mantrayatra/image/upload/c_fill,h_300,w_450,fl_progressive/v1481458952/ahobilam/banner.jpg"
 price = ""
 priceunit = ""
-weight = -3
 
 +++
 
