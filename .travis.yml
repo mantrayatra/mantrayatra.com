@@ -5,5 +5,5 @@ install:
   - hugo version
 script:
   - mkdir themes
-  - git clone https://github.com/mantrayatra/hugo-mantra-yatra.git themes
+  - git clone https://github.com/mantrayatra/hugo-mantra-yatra.git themes/hugo-mantra-yatra
   - hugo -v
