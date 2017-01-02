@@ -1,9 +1,7 @@
-sudo: false
-language: go
-go:
-  - 1.7.x
+sudo: true
 install:
-  - go get -u -v github.com/spf13/hugo
+  - wget https://github.com/spf13/hugo/releases/download/v0.17/hugo_0.17-64bit.deb
+  - sudo dpkg -i hugo*.deb
   - hugo version
 script:
   - mkdir themes
