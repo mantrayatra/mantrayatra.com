@@ -1,17 +1,17 @@
 sudo: true
 language: node_js
 node_js:
-- 6.9.2
+  - 6.9.2
 env:
-  secure: oXb0wRy8Js1Pk7dScZ/qLuZdHcR/3UGRzRzaABHLDQVgkfchkOtr7pBfb8f+BxIRVvZRFRgzhHef2st090Xna9zMuGHwdQAJmsmKP2+5tBNMwLCcvEzAu+4ZQHkctiRgSifWLjjKyINdvW1NzTxHLm4XqsZRvFPalKVIqEh8oZmRB6sEomwWh4WPC86q5CJrysagzrbHmPrJ2l4ZKZ55W59gHh4HgXpdh7AEdVD8/F4TpNGBt7e6WtRwhx0BPQyKxaZgRzh46oswCbA+ab+SgUq5dogOav8Uec/MwQFnqEHkdXwpWJ70q+k2yC3ajRUEQVjlstsF+LuWPehwIS9eBdo3LJssgAnOJdq3wOC7rjqij29m917KwM2hSRlDVyG2dK/6pZLS9vfaB9w/UpFQILYVpahpVztTo7ljLkFvxpYoeYmigzYiDHW4Zm3AHrMu7pBkN3dfKNaqkmxYxcMvuHmfjGlpP9k1c6iFs/5CTxRJ8yXCKMrvPg8dW5iXtJKBKaq4KK17bv+xKT8bMMplmwvM9LuYDDfwwW10mqN4je9B5KrYEklmDG8lL7Tdt8r+oJazjQe3BTqBdtN46MpGXCFrAareoKoDcZuaRHgY3Ovn4GeGJCuXm7RyjmIJ7fLH4+UuhPPed4F+Iszg3KmikVLFLfJf4vvg630tT3M1MYM=
+  - secure: "hQkNCgl8baP34Q1Y5DvQzjlXI7E7ecRuaXIL5BhFHYHuRU6mDpil0b83Nsl6kfRQq9JvPnUZduzLuVFIAjbEdcJgivO3IabTAsPk0gXY8gg4ta5UyO7hTi9lc3h6JVShL9wB1gEiadsXW0ae7OOyUZ9DoIE3gTaCeP1hTJ+1Xo+fd/mPZeVGVv94PFCcX1FrgJG/wQWNsDWzjuUtVHOBuyk79l3f8ZefL44xhBiUwd7C07xU1Ln2lR3PsWVkpOI9bIASQtdft7fMnJ3lwRHyqnRdUU053fxo8C53NYTd3UX0ajm5g9aaznIDu/ChADHRNBfnfGBC+8Isy+oYpV90AY0Wi6DRM++mhz6naVaotgglD+PfIgL0/RsXVWbh3fLtRqbWE7D2TKIoBg/XMoUZkkdEBzT4Ti9c2305UJi6XKQZ72WeisOltgRzBIwsKm0MgorXlwi4+sj9UfNCcXsqWnxaUzq82PtZmEvyMOlUjymS+RodRhm7UOKoGcZgm14vEqh6eIv5e/L1XANGQ540qQHFaPNWoPAuf2Joh9/FILVt2bVh+23uXEmA3Lqv+q/arwY+jSDBqDnAQEqBHdyDhnpgRw6KBcmOY9Gz7STsy4gFdKyaBvacIyDiz81RJxaQx1P+6Ae357WfDua4Wppl9PKdr58TB7TqGjs2INT9FWE="
 install:
-- wget https://github.com/spf13/hugo/releases/download/v0.17/hugo_0.17-64bit.deb
-- sudo dpkg -i hugo*.deb
-- hugo version
-- npm install -g firebase-tools
+  - wget https://github.com/spf13/hugo/releases/download/v0.17/hugo_0.17-64bit.deb
+  - sudo dpkg -i hugo*.deb
+  - hugo version
+  - npm install -g firebase-tools
 script:
-- mkdir themes
-- git clone https://github.com/mantrayatra/hugo-mantra-yatra.git themes/hugo-mantra-yatra
-- hugo -v
+  - mkdir themes
+  - git clone https://github.com/mantrayatra/hugo-mantra-yatra.git themes/hugo-mantra-yatra
+  - hugo -v
 after_success:
-- firebase deploy --email ${FIREBASE_USERNAME} --password ${FIREBASE_PASSWORD}
+  - firebase deploy --token "$FIREBASE_TOKEN"
