@@ -1,5 +1,5 @@
-language: go
 sudo: false
+language: go
 go:
   - 1.7.x
 install:
