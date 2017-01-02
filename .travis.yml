@@ -4,8 +4,8 @@ go:
   - 1.7.x
 install:
   - go get -u -v github.com/spf13/hugo
-  - hugo -v
+  - hugo version
 script:
   - mkdir themes
   - git clone https://github.com/mantrayatra/hugo-mantra-yatra.git themes
-  - hugo
+  - hugo -v
