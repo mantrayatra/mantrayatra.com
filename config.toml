@@ -21,4 +21,17 @@ theme = "hugo-mantra-yatra"
    # - click the confirm link in the email from www.formspree.io
    # - you're done. Happy mailing!
   email = "mantrayatra@gmail.com"
+  address = """
+      <strong>Mantra Yatra</strong><br>
+      2C - Ranga Nivas<br>
+      20 - Barnaby Road<br>
+      Chennai 600 010<br>
+      Kilpauk<br>
+      <abbr title="Mobile"><i class="fa fa-mobile" aria-hidden="true"></i></abbr>
+      <a href="tel:+919840188430">+91 98401 88430</a> / <a href="tel:+919840988430">+91 98409 88430</a><br/>
+      <abbr title="Landline"><i class="fa fa-phone" aria-hidden="true"></i></abbr>
+      <a href="tel:04442612114">044-42612114</a><br/>
+      <abbr title="Email"><i class="fa fa-envelope-o" aria-hidden="true"></i></abbr>
+      <a href="mailto:mantrayatra@gmail.com">mantrayatra@gmail.com</a><br/>
+  """
   noOfYatrasToInMainBanner = 3
