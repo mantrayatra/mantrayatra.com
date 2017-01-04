@@ -2,7 +2,7 @@ reviews:
   allowedFields: ["name", "email", "stars", "review"]
   allowedOrigins: ["localhost", "mantrayatra.com"]
   branch: "master"
-  filename: "{@id}"
+  filename: "{fields.email}"
   format: "yaml"
   generatedFields:
     date:
