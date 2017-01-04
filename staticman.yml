@@ -1,0 +1,14 @@
+reviews:
+  allowedFields: ["name", "email", "stars", "review"]
+  allowedOrigins: ["localhost", "mantrayatra.com"]
+  branch: "master"
+  filename: "{@id}"
+  format: "yaml"
+  generatedFields:
+    date:
+      type: date
+  moderation: true
+  path: "data/reviews/{options.entryId}"
+  requiredFields: ["name", "email", "stars", "review"]
+  transforms:
+    email: md5
