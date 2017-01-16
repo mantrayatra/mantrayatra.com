@@ -11,14 +11,13 @@ cache:
     - node_modules
     - tools
 install:
-  - wget https://github.com/spf13/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz \
-    && tar -xzf hugo_*.tar.gz && mkdir tools && cp hugo*/hugo* tools/hugo && rm -rf hugo_*
-  - ./hugo version
+  - wget https://github.com/spf13/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz && tar -xzf hugo_*.tar.gz && mkdir tools && cp hugo*/hugo* tools/hugo && rm -rf hugo_*
+  - tools/hugo version
   - yarn --version
   - yarn install
 script:
   - mkdir themes
   - git clone https://github.com/mantrayatra/hugo-mantra-yatra.git themes/hugo-mantra-yatra
-  - ./hugo -v
+  - tools/hugo -v
 after_success:
   - node_modules/.bin/firebase deploy --token "$FIREBASE_TOKEN"
