@@ -1,0 +1,11 @@
+{
+  "name": "mantrayatra.com",
+  "version": "1.0.0",
+  "description": "Website of mantra yatra https://mantrayatra.com/",
+  "repository": "https://github.com/mantrayatra/mantrayatra.com.git",
+  "author": "Kishan B <kishancs46@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "firebase-tools": "^3.2.1"
+  }
+}

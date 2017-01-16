@@ -36,6 +36,7 @@ theme = "hugo-mantra-yatra"
   """
   noOfYatrasToInMainBanner = 3
   [params.staticman]
+  enabled = false
   endpoint = "https://api.staticman.net/v2/entry/"
   username = "mantrayatra"
   repository = "mantrayatra.com"
