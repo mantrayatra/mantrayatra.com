@@ -13,7 +13,9 @@ cache:
     - tools
 install:
   - ls tools
-  - bash -c '! test -s "tools/hugo" && wget https://github.com/spf13/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz && tar -xzf hugo_*.tar.gz && cp hugo*/hugo* tools/hugo && rm -rf hugo_*'
+  - test ! -s tools/hugo && echo "not"
+  - test -s tools/hugo && echo "yes"
+  - test -s tools/hugo && wget https://github.com/spf13/hugo/releases/download/v${HUGO_VERSION}/hugo_${HUGO_VERSION}_Linux-64bit.tar.gz && tar -xzf hugo_*.tar.gz && cp hugo*/hugo* tools/hugo && rm -rf hugo_*
   - tools/hugo version
   - npm install # Temporary workaround since travis does not have yarn out of the box
 script:
