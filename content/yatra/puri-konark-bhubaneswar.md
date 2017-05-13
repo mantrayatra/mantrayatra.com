@@ -17,7 +17,6 @@ upcoming = true
 {{< article-image src="https://res.cloudinary.com/mantrayatra/image/upload/c_scale,w_800,fl_progressive/v1494646807/Puri%20Konark%20Bhubaneswar/004.jpg" alt="" >}}
 {{< article-image src="https://res.cloudinary.com/mantrayatra/image/upload/c_scale,w_800,fl_progressive/v1494646625/Puri%20Konark%20Bhubaneswar/009.jpg" alt="" >}}
 {{< article-image src="https://res.cloudinary.com/mantrayatra/image/upload/c_scale,w_800,fl_progressive/v1494645439/Puri%20Konark%20Bhubaneswar/IMG_20170306_075233342.jpg" alt="" >}}
-{{< article-image src="https://res.cloudinary.com/mantrayatra/image/upload/c_scale,w_800,fl_progressive/v1494645439/Puri%20Konark%20Bhubaneswar/IMG_20170306_075233342.jpg" alt="" >}}
 {{< article-image src="https://res.cloudinary.com/mantrayatra/image/upload/c_scale,w_800,fl_progressive/v1494644689/Puri%20Konark%20Bhubaneswar/IMG_20170306_130236580.jpg" alt="" >}}
 {{< article-image src="https://res.cloudinary.com/mantrayatra/image/upload/c_scale,w_800,fl_progressive/v1494645508/Puri%20Konark%20Bhubaneswar/IMG_20170306_151821350.jpg" alt="" >}}
 {{< article-image src="https://res.cloudinary.com/mantrayatra/image/upload/c_scale,w_800,fl_progressive/v1494644882/Puri%20Konark%20Bhubaneswar/IMG_20170306_161903726_HDR.jpg" alt="" >}}
