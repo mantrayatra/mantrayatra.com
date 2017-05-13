@@ -35,9 +35,15 @@ theme = "hugo-mantra-yatra"
       <a href="mailto:mantrayatra@gmail.com">mantrayatra@gmail.com</a><br/>
   """
   noOfYatrasToInMainBanner = 3
+
   [params.staticman]
   enabled = false
   endpoint = "https://api.staticman.net/v2/entry/"
   username = "mantrayatra"
   repository = "mantrayatra.com"
   branch = "master"
+
+  [params.firebase]
+  enabled = false
+  apiKey = ""
+  authDomain = ""
