@@ -2,8 +2,8 @@
 categories = [""]
 date = "2017-05-13T15:53:13+05:30"
 daterange = ""
-image = "https://res.cloudinary.com/mantrayatra/image/upload/fl_progressive/v1481461144/kailash-manasarovar/banner.jpg"
-thumbnail = "https://res.cloudinary.com/mantrayatra/image/upload/c_fill,w_450,h_300,g_north,fl_progressive/v1481461144/kailash-manasarovar/banner.jpg"
+image = "https://res.cloudinary.com/mantrayatra/image/upload/fl_progressive/v1494647152/Kailash%20Manasarovar%20Yatra%202017%20-%20%20Introductory%20Program/__22AB3047.jpg"
+thumbnail = "https://res.cloudinary.com/mantrayatra/image/upload/c_fill,w_450,h_300,fl_progressive/v1494647152/Kailash%20Manasarovar%20Yatra%202017%20-%20%20Introductory%20Program/__22AB3047.jpg"
 price = ""
 priceunit = ""
 summary = ""
