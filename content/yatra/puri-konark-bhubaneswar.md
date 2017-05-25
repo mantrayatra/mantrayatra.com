@@ -2,11 +2,11 @@
 categories = [""]
 date = "2017-05-13T15:17:39+05:30"
 daterange = ""
-image = "http://res.cloudinary.com/mantrayatra/image/upload/c_fit,w_1440,,b_rgb:000,o_85,fl_progressive/v1494671791/Puri%20Konark%20Bhubaneswar/banner.jpg"
+image = "https://res.cloudinary.com/mantrayatra/image/upload/c_fit,w_1440,,b_rgb:000,o_85,fl_progressive/v1494671791/Puri%20Konark%20Bhubaneswar/banner.jpg"
 price = ""
 priceunit = ""
 summary = ""
-thumbnail = "http://res.cloudinary.com/mantrayatra/image/upload/c_fill,h_300,w_450,fl_progressive/v1494671791/Puri%20Konark%20Bhubaneswar/banner.jpg"
+thumbnail = "https://res.cloudinary.com/mantrayatra/image/upload/c_fill,h_300,w_450,fl_progressive/v1494671791/Puri%20Konark%20Bhubaneswar/banner.jpg"
 title = "puri konark bhubaneswar"
 upcoming = true
 
