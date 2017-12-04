@@ -3,23 +3,20 @@ title = "kailash manasarovar"
 date = "2016-11-18T19:23:41+05:30"
 image = "https://res.cloudinary.com/mantrayatra/image/upload/fl_progressive/v1481461144/kailash-manasarovar/banner.jpg"
 thumbnail = "https://res.cloudinary.com/mantrayatra/image/upload/c_fill,w_450,h_300,g_north,fl_progressive/v1481461144/kailash-manasarovar/banner.jpg"
-summary = "15 Day pilgrimage of a lifetime"
+summary = ""
 price = ""
 priceunit = ""
-daterange = "Jun 9 - 24, 2017"
+daterange = ""
 categories = ["pilgrimage"]
 tags = ["upcoming"]
 weight = -3
 
 +++
 
-### Dates
-
-Jun 9 - 24, 2017
-
 ### Glimpse of the past
 
 #### 2017
+
 {{< article-image src="https://res.cloudinary.com/mantrayatra/image/upload/c_scale,w_800,fl_progressive/kailash-manasarovar-2017/1.jpg" alt="kailash manasarovar 2017" >}}
 {{< article-image src="https://res.cloudinary.com/mantrayatra/image/upload/c_scale,w_800,fl_progressive/kailash-manasarovar-2017/2.jpg" alt="kailash manasarovar 2017" >}}
 {{< article-image src="https://res.cloudinary.com/mantrayatra/image/upload/c_scale,w_800,fl_progressive/kailash-manasarovar-2017/IMG_20170613_055458233.jpg" alt="kailash manasarovar 2017" >}}
