@@ -7,7 +7,7 @@ price = ""
 priceunit = ""
 summary = ""
 thumbnail = "https://res.cloudinary.com/mantrayatra/image/upload/c_fill,h_300,w_450,fl_progressive/badrinath/banner.jpg"
-title = "Badri Kedar Yatra"
+title = "Badri Kedar"
 upcoming = true
 weight = -3
 
