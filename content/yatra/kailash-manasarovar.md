@@ -1,17 +1,15 @@
-+++
-title = "kailash manasarovar"
-date = "2016-11-18T19:23:41+05:30"
-image = "https://res.cloudinary.com/mantrayatra/image/upload/fl_progressive/v1481461144/kailash-manasarovar/banner.jpg"
-thumbnail = "https://res.cloudinary.com/mantrayatra/image/upload/c_fill,w_450,h_300,g_north,fl_progressive/v1481461144/kailash-manasarovar/banner.jpg"
-summary = ""
-price = ""
-priceunit = ""
-daterange = ""
-categories = ["pilgrimage"]
-tags = ["upcoming"]
-weight = -3
-
-+++
+---
+title: Kailash Manasarovar
+image: >-
+  https://res.cloudinary.com/mantrayatra/image/upload/fl_progressive/v1481461144/kailash-manasarovar/banner.jpg
+thumbnail: >-
+  https://res.cloudinary.com/mantrayatra/image/upload/c_fill,w_450,h_300,g_north,fl_progressive/v1481461144/kailash-manasarovar/banner.jpg
+tags:
+  - upcoming
+categories:
+  - pilgrimage
+date: '2016-11-18T19:23:41+05:30'
+---
 
 ### Glimpse of the past
 
