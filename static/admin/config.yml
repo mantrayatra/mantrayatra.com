@@ -3,9 +3,13 @@ backend:
   accept_roles: #optional - accepts all users if left out
     - admin
     - editor
-media_folder: "static/images/uploads"
 public_folder: "/images/uploads" 
 publish_mode: editorial_workflow
+media_library:
+  name: cloudinary
+  config:
+    cloud_name: mantrayatra
+    api_key: 822225168392362
 collections:
   - name: "yatra"
     label: "Yatra"
