@@ -28,6 +28,7 @@ collections:
     label: "Testimonials"
     folder: "data/testimonials"
     create: true
+    extension: yaml
     slug: "{{slug}}"
     fields:
       - {label: "Name", name: "name", widget: "string"}
