@@ -33,5 +33,5 @@ collections:
     fields:
       - {label: "Name", name: "name", widget: "string"}
       - {label: "Work Position", name: "position", widget: "string"}
-      - {label: "Testimonial", name: "text", widget: "string"}
+      - {label: "Testimonial", name: "text", widget: "text"}
       - {label: "Profile pic", name: "avatar", widget: "image"}
