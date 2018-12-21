@@ -13,8 +13,9 @@ daterange = ""
 +++
 
 ### Glimpse of the past
-{{< article-image src="https://res.cloudinary.com/mantrayatra/image/upload/c_scale,w_800,fl_progressive/v1481433198/chettinad/IMG_20161020_171708042.jpg" alt="" >}}
-{{< article-image src="https://res.cloudinary.com/mantrayatra/image/upload/c_scale,w_800,fl_progressive/v1482893084/chettinad/IMG_20161020_144519911.jpg" alt="" >}}
-{{< article-image src="https://res.cloudinary.com/mantrayatra/image/upload/c_scale,w_800,fl_progressive/v1482893084/chettinad/IMG_20161022_090834381.jpg" alt="" >}}
-{{< article-image src="https://res.cloudinary.com/mantrayatra/image/upload/c_scale,w_800,fl_progressive/v1482893084/chettinad/IMG_20161021_123802062.jpg" alt="" >}}
-{{< article-image src="https://res.cloudinary.com/mantrayatra/image/upload/c_scale,w_800,fl_progressive/v1482893083/chettinad/IMG-20161227-WA0057.jpg" alt="" >}}
+
+![](https://res.cloudinary.com/mantrayatra/image/upload/c_scale,w_800,fl_progressive/v1481433198/chettinad/IMG_20161020_171708042.jpg)
+![](https://res.cloudinary.com/mantrayatra/image/upload/c_scale,w_800,fl_progressive/v1482893084/chettinad/IMG_20161020_144519911.jpg)
+![](https://res.cloudinary.com/mantrayatra/image/upload/c_scale,w_800,fl_progressive/v1482893084/chettinad/IMG_20161022_090834381.jpg)
+![](https://res.cloudinary.com/mantrayatra/image/upload/c_scale,w_800,fl_progressive/v1482893084/chettinad/IMG_20161021_123802062.jpg)
+![](https://res.cloudinary.com/mantrayatra/image/upload/c_scale,w_800,fl_progressive/v1482893083/chettinad/IMG-20161227-WA0057.jpg)
