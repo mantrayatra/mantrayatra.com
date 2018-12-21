@@ -12,7 +12,7 @@ media_library:
     api_key: 822225168392362
 collections:
   - name: "yatra"
-    label: "Yatra"
+    label: "Yatras"
     folder: "content/yatra"
     create: true 
     slug: "{{slug}}"
