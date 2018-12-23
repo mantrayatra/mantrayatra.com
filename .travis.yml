@@ -18,4 +18,4 @@ script:
   - git clone https://github.com/mantrayatra/hugo-mantra-yatra.git themes/hugo-mantra-yatra
   - tools/hugo -v
 after_success:
-  - node_modules/.bin/firebase deploy --token "$FIREBASE_TOKEN"
+  - npx firebase deploy --token "$FIREBASE_TOKEN"
