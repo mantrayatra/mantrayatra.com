@@ -28,7 +28,7 @@ collections:
     folder: "data/testimonials"
     create: true
     extension: yaml
-    slug: "{{slug}}"
+    slug: "{{year}}-{{month}}-{{day}}"
     fields:
       - {label: "Name", name: "name", widget: "string"}
       - {label: "Work Position", name: "position", widget: "string"}
