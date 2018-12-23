@@ -11,4 +11,4 @@ if [[ ! -s tools/hugo ]] ; then
 fi
 
 tools/hugo version
-npm install # Temporary workaround since travis does not have yarn out of the box
+npm install
