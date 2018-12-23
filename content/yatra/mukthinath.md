@@ -1,9 +1,9 @@
 ---
 title: Mukthinath
 image: >-
-  https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,w_1440/v1/Mukthinath/IMG_1919.jpg
-thumbnail: >-
   https://res.cloudinary.com/mantrayatra/image/upload/b_rgb:000000,c_scale,fl_progressive,o_85,w_1440/v1/Mukthinath/IMG_1919.jpg
+thumbnail: >-
+  https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,h_300,w_450/v1/Mukthinath/IMG_1919.jpg
 tags:
   - upcoming
 categories:
