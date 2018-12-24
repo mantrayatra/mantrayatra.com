@@ -16,12 +16,12 @@ summary = ""
 
 ### Glimpse of the past
 
-![](https://res.cloudinary.com/mantrayatra/image/upload/c_scale,w_800,fl_progressive/v1482891317/hampi-navabrindavan/IMG_20160129_151541987_HDR.jpg)
+![Hampi navabrindavan](https://res.cloudinary.com/mantrayatra/image/upload/c_scale,w_800,fl_progressive/v1482891317/hampi-navabrindavan/IMG_20160129_151541987_HDR.jpg)
 
-![](https://res.cloudinary.com/mantrayatra/image/upload/c_scale,w_800,fl_progressive/v1482891316/hampi-navabrindavan/IMG_20160129_172436609_HDR.jpg)
+![Hampi navabrindavan](https://res.cloudinary.com/mantrayatra/image/upload/c_scale,w_800,fl_progressive/v1482891316/hampi-navabrindavan/IMG_20160129_172436609_HDR.jpg)
 
-![](https://res.cloudinary.com/mantrayatra/image/upload/c_scale,w_800,fl_progressive/v1482891316/hampi-navabrindavan/IMG_20160130_095745559.jpg)
+![Hampi navabrindavan](https://res.cloudinary.com/mantrayatra/image/upload/c_scale,w_800,fl_progressive/v1482891316/hampi-navabrindavan/IMG_20160130_095745559.jpg)
 
-![](https://res.cloudinary.com/mantrayatra/image/upload/c_scale,w_800,fl_progressive/v1482891316/hampi-navabrindavan/IMG_20160131_081620872.jpg)
+![Hampi navabrindavan](https://res.cloudinary.com/mantrayatra/image/upload/c_scale,w_800,fl_progressive/v1482891316/hampi-navabrindavan/IMG_20160131_081620872.jpg)
 
-![](https://res.cloudinary.com/mantrayatra/image/upload/c_scale,w_800,fl_progressive/v1482891316/hampi-navabrindavan/IMG_20160220_094544410.jpg)
+![Hampi navabrindavan](https://res.cloudinary.com/mantrayatra/image/upload/c_scale,w_800,fl_progressive/v1482891316/hampi-navabrindavan/IMG_20160220_094544410.jpg)
