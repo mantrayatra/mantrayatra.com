@@ -3,7 +3,7 @@ title: Kailash manasarovar
 image: >-
   https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,w_1450/v1/kailash-manasarovar-2017/kailash.jpg
 thumbnail: >-
-  https://res.cloudinary.com/mantrayatra/image/upload/c_fill,w_450,h_300,g_north,fl_progressive/v1481461144/kailash-manasarovar/banner.jpg
+  https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,w_450/v1/kailash-manasarovar-2017/kailash.jpg
 tags:
   - upcoming
 categories:
