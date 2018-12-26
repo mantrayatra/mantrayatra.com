@@ -1,18 +1,14 @@
-+++
-categories = [
-  ""
-]
-image = "https://res.cloudinary.com/mantrayatra/image/upload/c_fit,w_1440,fl_progressive/v1482977719/parvadamalai-trek/banner.jpg"
-thumbnail = "https://res.cloudinary.com/mantrayatra/image/upload/c_fill,h_300,w_450,fl_progressive/v1482977719/parvadamalai-trek/banner.jpg"
-price = ""
-priceunit = ""
-summary = ""
-daterange = ""
-upcoming = true
-date = "2016-12-29T07:33:24+05:30"
-title = "Parvadamalai trek"
-
-+++
+---
+title: Parvadamalai trek
+image: >-
+  https://res.cloudinary.com/mantrayatra/image/upload/c_fit,w_1440,fl_progressive/v1482977719/parvadamalai-trek/banner.jpg
+thumbnail: >-
+  https://res.cloudinary.com/mantrayatra/image/upload/c_fill,h_300,w_450,fl_progressive/v1482977719/parvadamalai-trek/banner.jpg
+categories:
+  - ''
+date: '2016-12-29T07:33:24+05:30'
+---
+![](https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,w_800/v1/parvadamalai-trek/Parvadhamalai.jpg)
 
 ### Glimpse of the past
 
