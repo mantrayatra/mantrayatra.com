@@ -1,17 +1,16 @@
-+++
-price = ""
-date = "2016-12-04T21:32:16+05:30"
-title = "Mantralayam"
-priceunit = ""
-image = "https://res.cloudinary.com/mantrayatra/image/upload/c_scale,w_1440,fl_progressive/v1481440002/mantralayam/banner.jpg"
-thumbnail = "https://res.cloudinary.com/mantrayatra/image/upload/c_fill,w_450,h_300,g_west,fl_progressive/v1481440002/mantralayam/banner.jpg"
-summary = ""
-daterange = ""
-categories = ["pilgrimage"]
-tags = [""]
-weight = -1
-
-+++
+---
+title: Mantralayam
+image: >-
+  https://res.cloudinary.com/mantrayatra/image/upload/fl_progressive/v1/mantralayam/1.jpg
+thumbnail: >-
+  https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,w_450/v1/mantralayam/1.jpg
+tags:
+  - ''
+categories:
+  - pilgrimage
+date: '2016-12-04T21:32:16+05:30'
+---
+![](https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,w_800/v1/badrinath/Mantralayam.jpg)
 
 ### Glimpse of the past
 
