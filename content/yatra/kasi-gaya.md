@@ -1,17 +1,22 @@
-+++
-date = "2016-11-22T09:37:14+05:30"
-title = "Kasi gaya"
-image = "https://res.cloudinary.com/mantrayatra/image/upload/fl_progressive/v1481461493/kasi-gaya/banner.jpg"
-thumbnail = "https://res.cloudinary.com/mantrayatra/image/upload/c_fill,w_450,h_300,fl_progressive/v1481461493/kasi-gaya/banner.jpg"
-summary = ""
-price = ""
-priceunit = ""
-daterange = ""
-categories = ["pilgrimage"]
-tags = ["upcoming"]
-weight = -2
+---
+title: Kasi gaya
+image: >-
+  https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,w_1450/v1/kasi-gaya/Kasi.jpg
+thumbnail: >-
+  https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,w_450/v1/kasi-gaya/Kasi.jpg
+tags:
+  - upcoming
+categories:
+  - pilgrimage
+date: '2016-11-22T09:37:14+05:30'
+---
+![](https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,w_800/v1/kasi-gaya/IMG_20160901_075227304.jpg)
 
-+++
+![](https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,w_800/v1/kasi-gaya/Kasi_3.jpg)
+
+![](https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,w_800/v1/kasi-gaya/Kasi.jpg)
+
+![](https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,w_800/v1/kasi-gaya/Kasi_2.jpg)
 
 ### Glimpse of the past
 
