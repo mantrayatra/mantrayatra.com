@@ -3,7 +3,7 @@ title: Puri konark bhubaneswar
 image: >-
   https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,w_1450/v1/Puri%20Konark%20Bhubaneswar/Puri_5.jpg
 thumbnail: >-
-  https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,w_350/v1/Puri%20Konark%20Bhubaneswar/Puri_5.jpg
+  https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,w_440/v1/Puri%20Konark%20Bhubaneswar/banner.jpg
 categories:
   - ''
 date: '2017-05-13T15:17:39+05:30'
