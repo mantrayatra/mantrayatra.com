@@ -1,16 +1,20 @@
-+++
-categories = [""]
-date = "2017-05-13T15:17:39+05:30"
-daterange = ""
-image = "https://res.cloudinary.com/mantrayatra/image/upload/c_fit,w_1440,,b_rgb:000,o_85,fl_progressive/v1494671791/Puri%20Konark%20Bhubaneswar/banner.jpg"
-price = ""
-priceunit = ""
-summary = ""
-thumbnail = "https://res.cloudinary.com/mantrayatra/image/upload/c_fill,h_300,w_450,fl_progressive/v1494671791/Puri%20Konark%20Bhubaneswar/banner.jpg"
-title = "Puri konark bhubaneswar"
-upcoming = true
+---
+title: Puri konark bhubaneswar
+image: >-
+  https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,w_1450/v1/Puri%20Konark%20Bhubaneswar/Puri_5.jpg
+thumbnail: >-
+  https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,w_450/v1/Puri%20Konark%20Bhubaneswar/Puri_5.jpg
+categories:
+  - ''
+date: '2017-05-13T15:17:39+05:30'
+---
+![](https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,w_800/v1/Puri%20Konark%20Bhubaneswar/Puri.jpg)
 
-+++
+![](https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,w_800/v1/Puri%20Konark%20Bhubaneswar/Puri_2.jpg)
+
+![](https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,w_800/v1/Puri%20Konark%20Bhubaneswar/Puri_5.jpg)
+
+![](https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,w_800/v1/Puri%20Konark%20Bhubaneswar/Puri_4.jpg)
 
 ### Glimpse of the past
 
