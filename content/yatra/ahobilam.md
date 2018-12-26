@@ -1,17 +1,16 @@
-+++
-date = "2016-12-04T20:39:44+05:30"
-summary = "Ahobilam"
-upcoming = true
-categories = [ "pilgrimage" ]
-tags = [""]
-daterange = ""
-title = "Ahobilam"
-image = "https://res.cloudinary.com/mantrayatra/image/upload/c_fill,w_1440,fl_progressive/v1481458952/ahobilam/banner.jpg"
-thumbnail = "https://res.cloudinary.com/mantrayatra/image/upload/c_fill,h_300,w_450,fl_progressive/v1481458952/ahobilam/banner.jpg"
-price = ""
-priceunit = ""
-
-+++
+---
+title: Ahobilam
+image: >-
+  https://res.cloudinary.com/mantrayatra/image/upload/c_fill,w_1440,fl_progressive/v1481458952/ahobilam/banner.jpg
+thumbnail: >-
+  https://res.cloudinary.com/mantrayatra/image/upload/c_fill,h_300,w_450,fl_progressive/v1481458952/ahobilam/banner.jpg
+tags:
+  - ''
+categories:
+  - pilgrimage
+date: '2016-12-04T20:39:44+05:30'
+---
+![](https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,h_800,w_800/v1/ahobilam/Ahobilam.jpg)
 
 ### Glimpse of the past
 
