@@ -1,17 +1,18 @@
-+++
-categories = [
-  "" ]
-image = "https://res.cloudinary.com/mantrayatra/image/upload/c_fit,w_1440,b_rgb:000,o_80,fl_progressive/v1482942241/karnataka/banner.jpg"
-thumbnail = "https://res.cloudinary.com/mantrayatra/image/upload/c_fill,h_300,w_450,fl_progressive/v1482942241/karnataka/banner.jpg"
-date = "2016-12-28T08:20:28+05:30"
-title = "Karnataka"
-summary = ""
-price = ""
-priceunit = ""
-daterange = ""
-upcoming = true
+---
+title: Karnataka
+image: >-
+  https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,w_1450/v1/karnataka/karnataka.jpg
+thumbnail: >-
+  https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,w_450/v1/karnataka/karnataka.jpg
+categories:
+  - ''
+date: '2016-12-28T08:20:28+05:30'
+---
+![](https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,w_800/v1/karnataka/Karnataka1.jpg)
 
-+++
+![](https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,w_800/v1/karnataka/karnataka_2.jpg)
+
+![](https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,w_800/v1/karnataka/karnataka.jpg)
 
 ### Glimpse of the past
 
