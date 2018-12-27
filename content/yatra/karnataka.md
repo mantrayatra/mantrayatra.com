@@ -3,7 +3,7 @@ title: Karnataka
 image: >-
   https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,w_1450/v1/karnataka/karnataka.jpg
 thumbnail: >-
-  https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,w_450/v1/karnataka/karnataka.jpg
+  https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,h_300,w_450/v1/karnataka/karnataka.jpg
 categories:
   - ''
 date: '2016-12-28T08:20:28+05:30'
