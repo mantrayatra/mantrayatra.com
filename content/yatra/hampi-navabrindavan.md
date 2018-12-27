@@ -3,7 +3,7 @@ title: Hampi navabrindavan
 image: >-
   https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,w_1450/v1/hampi-navabrindavan/Hampi3.jpg
 thumbnail: >-
-  https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,w_450/v1/hampi-navabrindavan/Hampi3.jpg
+  https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,h_300,w_450/v1/hampi-navabrindavan/Hampi3.jpg
 categories:
   - heritage
 date: '2016-12-28T07:42:21+05:30'
