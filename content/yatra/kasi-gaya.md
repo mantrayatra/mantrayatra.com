@@ -3,7 +3,7 @@ title: Kasi gaya
 image: >-
   https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,w_1450/v1/kasi-gaya/Kasi.jpg
 thumbnail: >-
-  https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,h_275,w_440/v1/kasi-gaya/Kasi.jpg
+  https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,h_300,w_450/v1/kasi-gaya/Kasi.jpg
 tags:
   - upcoming
 categories:
