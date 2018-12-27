@@ -1,9 +1,9 @@
 ---
 title: Ahobilam
 image: >-
-  https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,w_440/v1/ahobilam/banner.jpg
+  https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,w_1450/v1/ahobilam/Ahobilam.jpg
 thumbnail: >-
-  https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,w_450/v1/ahobilam/banner.jpg
+  https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,h_300,w_450/v1/ahobilam/Ahobilam.jpg
 tags:
   - ''
 categories:
