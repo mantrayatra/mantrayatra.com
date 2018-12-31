@@ -1,14 +1,22 @@
 ---
 title: Badri Kedar
 image: >-
-  https://res.cloudinary.com/mantrayatra/image/upload/c_fit,w_1440,b_rgb:000,o_85,fl_progressive/badrinath/banner.jpg
+  https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,w_1450/v1/badrinath/Badri2.jpg
 thumbnail: >-
-  https://res.cloudinary.com/mantrayatra/image/upload/c_fill,h_300,w_450,fl_progressive/badrinath/banner.jpg
+  https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,w_400/v1/badrinath/Badri2.jpg
 categories:
   - ''
 date: '2017-12-03T15:17:39+05:30'
 ---
 ![](https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,h_600,w_800/v1/badrinath/Badri2.jpg)
+
+![](https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,w_800/v1/badrinath/20180909_095716.jpg)
+
+![](https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,w_800/v1/badrinath/WhatsApp_Image_2018-09-05_at_06.32.25.jpg)
+
+![](https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,w_800/v1/badrinath/WhatsApp_Image_2018-09-08_at_16.39.20.jpg)
+
+![](https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,w_800/v1/badrinath/20180909_131822.jpg)
 
 ![](https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,h_600,w_800/v1/badrinath/Badri.jpg)
 
