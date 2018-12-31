@@ -1,9 +1,9 @@
 ---
 title: Badri Kedar
 image: >-
-  https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,w_1450/v1/badrinath/Badri2.jpg
+  https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,w_1450/v1/badrinath/IMG_0795_2.jpg
 thumbnail: >-
-  https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,w_400/v1/badrinath/Badri2.jpg
+  https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,h_300,w_450/v1/badrinath/IMG_0795_2.jpg
 categories:
   - ''
 date: '2017-12-03T15:17:39+05:30'
