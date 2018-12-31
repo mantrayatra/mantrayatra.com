@@ -1,19 +1,13 @@
-+++
-summary = ""
-daterange = ""
-categories = [
-  "",
-]
-title = "Kodaikanal"
-image = "https://res.cloudinary.com/mantrayatra/image/upload/c_fit,w_1440,b_rgb:000,o_85,fl_progressive/v1482975077/kodaikanal/banner.jpg"
-thumbnail = "https://res.cloudinary.com/mantrayatra/image/upload/c_fill,h_300,w_450,fl_progressive/v1482975077/kodaikanal/banner.jpg"
-price = ""
-priceunit = ""
-upcoming = true
-date = "2016-12-28T22:08:18+05:30"
-
-+++
-
+---
+title: Kodaikanal
+image: >-
+  https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,w_1450/v1/kodaikanal/IMG_20160508_080224903.jpg
+thumbnail: >-
+  https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,h_300,w_450/v1/kodaikanal/IMG_20160508_080224903.jpg
+categories:
+  - ''
+date: '2016-12-28T22:08:18+05:30'
+---
 ### Glimpse of the past
 
 ![](https://res.cloudinary.com/mantrayatra/image/upload/c_scale,w_800,fl_progressive/v1482943252/kodaikanal/IMG_20160507_094631998.jpg)
