@@ -9,6 +9,7 @@ tags:
 categories:
   - yatra
 date: 2018-12-23T11:02:31.399Z
+weight: 2
 ---
 **Glimpse of the past**
 

@@ -6,6 +6,7 @@ thumbnail: >-
   https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,h_300,w_450/v1/badrinath/IMG_0795_2.jpg
 categories:
   - ''
+weight: 3
 date: '2017-12-03T15:17:39+05:30'
 ---
 ![](https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,h_600,w_800/v1/badrinath/Badri2.jpg)

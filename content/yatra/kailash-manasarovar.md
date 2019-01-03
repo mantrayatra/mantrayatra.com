@@ -8,6 +8,7 @@ tags:
   - upcoming
 categories:
   - pilgrimage
+weight: 1
 date: '2016-11-18T19:23:41+05:30'
 ---
 ![Kailash Manasarovar yatra chennai, Kailash Chennai, Manasarovar Yatra Chennai, Yatras chennai,](https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,w_800/v1/kailash-manasarovar-2017/Kailash_3.jpg)

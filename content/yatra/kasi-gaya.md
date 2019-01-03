@@ -8,6 +8,7 @@ tags:
   - upcoming
 categories:
   - pilgrimage
+weight: 4
 date: '2016-11-22T09:37:14+05:30'
 ---
 ![](https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,w_800/v1/kasi-gaya/IMG_20160901_075227304.jpg)
