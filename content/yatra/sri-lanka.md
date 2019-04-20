@@ -5,6 +5,8 @@ image: >-
   https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,w_1450/v1555255088/Sri%20Lanka/WhatsApp_Image_2019-02-20_at_02.22.11.jpg
 thumbnail: >-
   https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,h_300,w_450/v1555255088/Sri%20Lanka/WhatsApp_Image_2019-02-20_at_02.22.11.jpg
+tags:
+  - Sri Lanka
 date: 2019-04-20T02:21:15.122Z
 ---
 ![](https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,w_800/v1555255459/Sri%20Lanka/IMG_0348.jpg)
