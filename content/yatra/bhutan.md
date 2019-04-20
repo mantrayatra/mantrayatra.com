@@ -9,15 +9,11 @@ date: 2019-04-20T03:49:33.453Z
 ---
 ![](https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,w_800/v1555728490/Bhutan/5dde7da8-75e2-4258-a704-5df55d51ec16.jpg)
 
-![Bhutan Paro Thimpu Punakha ](https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,w_800/v1555729380/Bhutan/IMG_3349.jpg)
-
 ![Bhutan Paro Thimpu Punakha ](https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,w_800/v1555729430/Bhutan/IMG_3361.jpg)
 
 ![Bhutan Paro Thimpu Punakha ](https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,w_800/v1555729376/Bhutan/IMG_3505.jpg)
 
 ![Bhutan Paro Thimpu Punakha ](https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,w_800/v1555729298/Bhutan/IMG_3220.jpg)
-
-![Bhutan Paro Thimpu Punakha ](https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,w_800/v1555729241/Bhutan/IMG_3443.jpg)
 
 ![Bhutan Paro Thimpu Punakha ](https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,w_800/v1555729241/Bhutan/IMG_3443.jpg)
 
