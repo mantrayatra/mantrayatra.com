@@ -23,7 +23,9 @@ date: 2018-12-23T11:02:31.399Z
 
 ![](https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,w_800/v1555728118/Mukthinath/26.jpg)
 
-**Glimpse of the past**
+****
+
+![mukthinath yatra](https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,w_800/v1/Mukthinath/IMG_1660.jpg)
 
 ![mukthinath yatra](https://res.cloudinary.com/mantrayatra/image/upload/c_scale,fl_progressive,w_800/v1/Mukthinath/IMG_1660.jpg)
 
